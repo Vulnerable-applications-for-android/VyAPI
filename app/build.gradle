@@ -49,11 +49,11 @@ dependencies {
 
     // AWS Mobile SDK for Android
     implementation 'com.amazonaws:aws-android-sdk-iot:2.15.2'
-    implementation 'com.amazonaws:aws-android-sdk-core:2.15.2'
+    implementation 'com.amazonaws:aws-android-sdk-core:2.62.0'
 
     // AWS Mobile SDK for Android
     implementation 'com.amazonaws:aws-android-sdk-iot:2.2.+'
-    implementation 'com.amazonaws:aws-android-sdk-core:2.2.+'
+    implementation 'com.amazonaws:aws-android-sdk-core:2.62.+'
 
     // Glide
     implementation 'com.github.bumptech.glide:glide:4.9.0'
